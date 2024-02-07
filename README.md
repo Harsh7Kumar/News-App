@@ -1,7 +1,7 @@
 # News-App /n
 This app gives the daily updated news which is fetched through the Api. <br />
 
-Here are somme screenshot of App. <br />
+**Here are somme screenshot of App.** <br />
 
 ![Screenshot_20240207-202848](https://github.com/Harsh7Kumar/News-App/assets/90342116/6a9529a8-7c3a-4d0e-8b30-253e5fa4f994) <br />
 
